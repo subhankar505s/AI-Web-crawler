@@ -172,7 +172,7 @@ Examples:
 # 📂 PROJECT STRUCTURE
 
 AI-Web-Scraper/
-│── main.py
+│── spindle.py
 │── scraper.py
 │── parser.py
 │── utils/
