@@ -134,7 +134,7 @@ cd AI-Web-Scraper
 
 ## Step 2: Run Streamlit App
 
-streamlit run main.py
+streamlit run spindle.py
 
 ---
 
