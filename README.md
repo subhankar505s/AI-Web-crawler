@@ -107,11 +107,13 @@ Download:
 https://ollama.com
 
 Pull model:
+```sh
 ollama pull llama3
-
+```
 Run model:
+```sh
 ollama run llama3
-
+```
 (Keep it running in background)
 
 ---
@@ -131,15 +133,15 @@ Ensure:
 ---
 
 ## Step 1: Navigate to Project
-
+```sh
 cd AI-Web-Scraper
-
+```
 ---
 
 ## Step 2: Run Streamlit App
-
+```sh
 streamlit run spindle.py
-
+```
 ---
 
 ## Step 3: Open Browser
