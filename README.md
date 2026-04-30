@@ -176,7 +176,7 @@ Examples:
 ---
 
 # 📂 PROJECT STRUCTURE
-
+```
 AI-Web-Scraper/
 │── spindle.py
 │── scraper.py
@@ -185,6 +185,7 @@ AI-Web-Scraper/
 │── requirements.txt
 │── README.md
 
+```
 ---
 
 # ⚠️ COMMON ERRORS
