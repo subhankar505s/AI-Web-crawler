@@ -1,4 +1,4 @@
-# AI-Web-crawler
+# AI-Web-crawler Tool Using Ollama Llama 3.2
 AI-powered web scraper that extracts structured data from any website using Selenium, BeautifulSoup, and local LLMs via Ollama. Features a Streamlit UI for easy interaction, prompt-based parsing, and support for dynamic pages—ideal for automation, research, and data collection
 
 # 🤖 AI Web Scraper (Full Setup + Streamlit UI)
