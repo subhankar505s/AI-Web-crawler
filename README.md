@@ -38,8 +38,9 @@ Download and install Python (3.10+ recommended):
 https://www.python.org/downloads/
 
 Verify installation:
+```sh
 python --version
-
+```
 ---
 
 ## STEP 2: Install Git
@@ -48,8 +49,9 @@ Download Git:
 https://git-scm.com/
 
 Verify:
+```sh
 git --version
-
+```
 ---
 
 ## STEP 3: Clone Repository
@@ -60,23 +62,25 @@ cd AI-Web-crawler
 ---
 
 ## STEP 4: Create Virtual Environment
-
+```sh
 python -m venv venv
-
+```
 Activate it:
 
 Windows:
+```sh
 venv\Scripts\activate
-
+```
 Linux/Mac:
+```sh
 source venv/bin/activate
-
+```
 ---
 
 ## STEP 5: Install Dependencies
-
+```sh
 pip install -r requirements.txt
-
+```
 ---
 
 ## STEP 6: Install Google Chrome
@@ -88,7 +92,7 @@ https://www.google.com/chrome/
 ## STEP 7: Install ChromeDriver
 
 1. Check Chrome version:
-   google-chrome --version
+  ``` google-chrome --version ```
 
 2. Download matching ChromeDriver:
    https://chromedriver.chromium.org/downloads
