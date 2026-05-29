@@ -57,7 +57,10 @@ git --version
 ## STEP 3: Clone Repository
 
 git clone https://github.com/subhankar505s/AI-Web-crawler.git
+
+'''sh
 cd AI-Web-crawler
+'''
 
 ---
 
