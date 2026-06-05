@@ -254,4 +254,19 @@ MIT License
 
 ---
 
+# 👨‍💻 Developer
+
+<div align="center">
+
+## Subhankar Mohanta
+
+Cybersecurity Enthusiast • Full Stack Developer • SOC Dashboard Developer
+
+© 2026 CyberShield X v1.0.0  
+Designed & Developed by Subhankar Mohanta
+
+</div>
+
+---
+
 # 🚀 Happy Scraping!
