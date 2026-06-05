@@ -262,7 +262,7 @@ MIT License
 
 Cybersecurity Enthusiast • Full Stack Developer • SOC Dashboard Developer
 
-© 2026 CyberShield X v1.0.0  
+© 2025 Spindle AI v1.0.0  
 Designed & Developed by Subhankar Mohanta
 
 </div>
