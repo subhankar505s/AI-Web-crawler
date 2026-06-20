@@ -260,7 +260,7 @@ MIT License
 
 ## Subhankar Mohanta
 
-Cybersecurity Enthusiast • Full Stack Developer • SOC Dashboard Developer
+Cybersecurity Enthusiast • Network Engineer  • Python Developer
 
 © 2025 Spindle AI v1.0.0  
 Designed & Developed by Subhankar Mohanta
